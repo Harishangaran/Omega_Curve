@@ -10,7 +10,7 @@ the lookback period.
 Call many stocks/instruments as you like.
 
 
-#Calling function:
+# Calling function:
     
     plotOmegaCurve(stocklist,historyPeriod,thresholdStart,thresholdEnd)    
 
